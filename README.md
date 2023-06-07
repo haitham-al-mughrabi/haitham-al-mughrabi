@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software quality engineer with 2 years of experience in automation and manual testing. I have used various tools and frameworks such as selenium, robotframework, cypress, behave and katalon studio to design and execute test cases, identify and report defects, and ensure the quality of software products. I have strong knowledge of software testing methodologies, best practices and standards. I am also proficient in programming languages such as Python, Java and JavaScript. I am looking for a challenging and rewarding opportunity to apply my skills and learn new technologies in the field of software quality engineering.
+I am a software quality engineer with 3 years of experience in automation and manual testing. I have used various tools and frameworks such as selenium, robotframework, cypress, behave and katalon studio to design and execute test cases, identify and report defects, and ensure the quality of software products. I have strong knowledge of software testing methodologies, best practices and standards. I am also proficient in programming languages such as Python, Java and JavaScript. I am looking for a challenging and rewarding opportunity to apply my skills and learn new technologies in the field of software quality engineering.
 
 
 # 💻 Tech Stack:
